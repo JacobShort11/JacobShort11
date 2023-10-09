@@ -11,11 +11,6 @@ I'm currently reading about Neural Rendering. You can follow my readings in my [
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobShort11&layout=compact)
 
-My top languages are: 
-- Python
-- Julia
-- C
-
 I have experience using:
 - TensorFlow
 - PyTorch

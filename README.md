@@ -1,12 +1,5 @@
 ### Hi, I'm Jacob 👋
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobShort11&layout=compact)
-
-<a href="https://www.linkedin.com/in/jacob-short-ai/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-## 📚 Background
-
-Hi, I'm Jacob, an MSc Artificial Intelligence & Machine Learning Scholar with experience working in Avanade, Microsoft & Accenture AI teams. I specialise in Computer Vision, ML & Deep learning.
+... an MSc Artificial Intelligence & Machine Learning Scholar with experience working in Avanade, Microsoft & Accenture AI teams. I specialise in Computer Vision, ML & Deep learning.
 
 
 
@@ -32,7 +25,7 @@ I have experience using:
 
 In my pinned repositories, you can find examples of my Deep Learning personal projects (Python) and my personal academic AI paper library, containing my notes exploring the underlying mathematics & code behind each paper.
 
-You can find me on: [LinkedIn](https://www.linkedin.com/in/jacob-short-ai/).
+You can find me on: <a href="https://www.linkedin.com/in/jacob-short-ai/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
 <!--

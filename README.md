@@ -3,7 +3,7 @@
 
 ## Achievements
 <p align="center">
-  <img src="Accenture-Avanade-and-microsoft-logos.jpg" width="400">
+  <img src="Accenture-Avanade-and-microsoft-logos.jpg" width="250">
 </p>
 
 - Working in Avanade, Microsoft & Accenture AI teams to develop Computer Vision models. I created an auto-segmentation algorithm which led to the opportunity to present findings to the UK&I AI teams at Avanade.

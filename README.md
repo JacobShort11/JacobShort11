@@ -2,6 +2,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobShort11&layout=compact)
 
+<a href="https://www.linkedin.com/in/jacob-short-ai/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+
 <!--
 **JacobShort11/JacobShort11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

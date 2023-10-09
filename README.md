@@ -10,7 +10,7 @@
 ## 📝 Research
 My research focus is in Neural Rendering and I'm studying modules in Mathematics, Advanced Machine Learning, Deep Learning, Computer Vision & Natural Language Processing. You can follow my readings in my [ai_ml_research_papers repository](https://github.com/JacobShort11/ai_ml_research_papers).
 
-## 👩‍💻 Code
+## 👨‍💻 Code
 I have experience using:
 - TensorFlow
 - PyTorch

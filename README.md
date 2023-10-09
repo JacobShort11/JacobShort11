@@ -1,7 +1,7 @@
 # Hi, I'm Jacob 👋
 ... an MSc Artificial Intelligence & Machine Learning Scholar with experience working in Avanade, Microsoft & Accenture AI teams. I specialise in Computer Vision, ML & Deep learning.
 
-## Achievements
+## 🙌 Achievements
 <p align="center">
   <img src="Accenture-Avanade-and-microsoft-logos.jpg" width="250">
 </p>

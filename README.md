@@ -5,7 +5,6 @@
 <a href="https://www.linkedin.com/in/jacob-short-ai/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacobShort11&theme=dark&show_icons=true)
 
 
 

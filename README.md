@@ -2,6 +2,10 @@
 ... an MSc Artificial Intelligence & Machine Learning Scholar with experience working in Avanade, Microsoft & Accenture AI teams. I specialise in Computer Vision, ML & Deep learning.
 
 ## Achievements
+<p align="center">
+  <img src="Accenture-Avanade-and-microsoft-logos.jpg" width="400">
+</p>
+
 - Working in Avanade, Microsoft & Accenture AI teams to develop Computer Vision models. I created an auto-segmentation algorithm which led to the opportunity to present findings to the UK&I AI teams at Avanade.
 - Receiving a scholarship from the University of Birmingham as a result of deep learning personal projects & exceptional first-class results in BSc Mathematical Sciences at the University of Bath.
 - Achieving 2nd place in worldwide Avanade FUEL hackathon, competing against colleagues across Data, Software & AI.

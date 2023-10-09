@@ -4,13 +4,9 @@
 
 
 ## 📝 Research
-
 I'm currently reading about Neural Rendering. You can follow my readings in my [ai_ml_research_papers repository](https://github.com/JacobShort11/ai_ml_research_papers).
 
 ## 👩‍💻 Code
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobShort11&layout=compact)
-
 I have experience using:
 - TensorFlow
 - PyTorch

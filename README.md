@@ -1,6 +1,6 @@
 ### Hi, I'm Jacob 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?JacobShort11=laxmena&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobShort11&layout=compact)
 
 <!--
 **JacobShort11/JacobShort11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

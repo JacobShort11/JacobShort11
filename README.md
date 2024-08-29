@@ -2,14 +2,13 @@
 ... an MSc Artificial Intelligence & Machine Learning student with experience working in Avanade & Accenture AI teams. I specialise in Computer Vision, ML & Deep learning. Joining IBM September 2024.
 
 ## 👨‍💻 Code
-I have experience using:
-- TensorFlow
+I have 5+ years Python experience using:
 - PyTorch
+- TensorFlow
 - YOLOv8
 - OpenCV
 - Scikit-Learn
-
-In my pinned repositories, you can find examples of my Deep Learning personal projects (Python) and my personal academic AI paper library, containing my notes exploring the underlying mathematics & code behind each paper.
+- and more...
 
 <a href="https://www.linkedin.com/in/jacob-short-ai/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 

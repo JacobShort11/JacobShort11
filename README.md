@@ -1,5 +1,5 @@
 # Hi, I'm Jacob 👋
-... an MSc Artificial Intelligence & Machine Learning student with experience working in Avanade & Accenture AI teams. I specialise in Computer Vision, ML & Deep learning. Joining IBM September 2024.
+... an MSc Artificial Intelligence & Machine Learning student with experience working in Avanade & Accenture AI teams. Joining IBM September 2024.
 
 ## 👨‍💻 Code
 I have 5+ years Python experience using:
